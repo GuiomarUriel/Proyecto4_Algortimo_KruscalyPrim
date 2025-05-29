@@ -1,2 +1,3 @@
-# Proyecto4_Algoritmo_KruscalyPrim
+# Algoritmo_KruscalyPrim 
+# Archivo de programa es "KruskalPrim.ipynb"
 
